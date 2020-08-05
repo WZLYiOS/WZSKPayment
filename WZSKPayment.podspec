@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
 spec.name         = 'WZSKPayment'
 spec.version      = '0.3.5'
-spec.summary      = 'WZSKPayment内购购买组件'
+spec.summary      = 'WZSKPayment内购购买组件.'
 
 spec.description  = <<-DESC
 苹果内购购买组件、钥匙串存储
